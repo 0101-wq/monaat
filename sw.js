@@ -1,5 +1,5 @@
 /* מונעת בביקור: עבודה בלי אינטרנט. הדף נטען מהרשת כשיש חיבור (כך מתקבלים עדכונים), ומהזיכרון כשאין. */
-const VERSION = 'monaat-2026-11-18';
+const VERSION = 'monaat-2026-11-19';
 const FONTS = 'monaat-fonts';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png',
   './icons/maskable-512.png', './icons/apple-touch-icon.png', './icons/favicon-32.png'];
